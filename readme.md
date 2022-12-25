@@ -1,4 +1,4 @@
-This is a 3D graphics rendering engine that runs in the console.
+This is a 3D graphics rendering engine built from scratch that runs in the console.
 
 The code is tailored to work with the windows console so it is not very portable.
 
