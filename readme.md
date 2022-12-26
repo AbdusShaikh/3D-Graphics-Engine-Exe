@@ -3,7 +3,7 @@ This is a 3D graphics rendering engine built from scratch that runs in the conso
 The code is tailored to work with the windows console so it may not be very portable.
 
 **To Run:**
-1. Download executable and the mountains.obj file (This is the file the program currently laods up)
+1. Download executable and the mountains.obj file (This is the default file the program loads up)
 2. Run the exectuable
 
 **To render different objects**
